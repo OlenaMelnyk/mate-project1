@@ -1,1 +1,2 @@
-# mate-project1
+- [Preview](https://github.com/OlenaMelnyk/mate-project1/)
+- [Pull Request](https://github.com/OlenaMelnyk/mate-project1/pull/1/files)
